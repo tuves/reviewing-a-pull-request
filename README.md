@@ -5,6 +5,7 @@ A project based learning activity for people who are getting started with Git an
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
+2. Use the up and down arrow keys to rotate the shape.
 
 You can play the game at: https://githubschool.github.io/github-games/
 
