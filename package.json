@@ -1,0 +1,16 @@
+{
+  "name": "github-games",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianamarie/github-games.git"
+  },
+  "description": "Simple JS game",
+  "author": "https://twitter.com/brianamarie",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint stats.js"
+  }
+}
